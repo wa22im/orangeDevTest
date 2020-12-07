@@ -14,7 +14,7 @@
         android:label="orangeTest"
         android:icon="@mipmap/ic_launcher">
             <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="AIzaSyD2m03uis4lepETzLTJCQSsdEkWC8QYLn4"/>
+               android:value="KEYYYY Here "/>
   
         <activity
             android:name=".MainActivity"
